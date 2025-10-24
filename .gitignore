@@ -1,0 +1,15 @@
+# Node.js / frontend stuff
+node_modules/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+*.log
+
+# Any specific file
+secret.txt
