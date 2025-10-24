@@ -10,7 +10,6 @@
   box-sizing: border-box;
   font-family: "Courier New", Courier, monospace;
 }
-
 .container {
   display: grid;
   height: 100vh;

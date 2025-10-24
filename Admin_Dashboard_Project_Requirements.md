@@ -1,6 +1,7 @@
 # 🧩 Admin Dashboard Project
 
 ## 📋 Assignment Overview
+
 This project is part of your **CSS Grid practice** and focuses on building a responsive admin dashboard layout using HTML and CSS.  
 You’ll apply **Grid properties**, **nested grids**, and **structured layout design** principles to create a professional-looking interface.
 
@@ -9,11 +10,13 @@ You’ll apply **Grid properties**, **nested grids**, and **structured layout de
 ## 🚀 Step 1: Setup and Planning
 
 1. **Initialize a Git repository**
+
    - Create a new folder for your project.
    - Run `git init` and link your remote repository.
    - Make your initial commit once setup is complete.
 
 2. **Base File Structure**
+
    ```
    /dashboard-project
    ├── index.html
@@ -22,6 +25,7 @@ You’ll apply **Grid properties**, **nested grids**, and **structured layout de
    ```
 
 3. **Setup HTML & CSS Links**
+
    - Add dummy content in your `index.html` and link the CSS file to confirm everything works correctly.
 
 4. **Review Design File**
@@ -33,6 +37,7 @@ You’ll apply **Grid properties**, **nested grids**, and **structured layout de
 ## 🧱 Step 2: Layout Structure
 
 1. **HTML Layout**
+
    - Create containers for:
      - `header`
      - `sidebar`
@@ -51,32 +56,37 @@ You’ll apply **Grid properties**, **nested grids**, and **structured layout de
 Take one section at a time and build nested grids:
 
 ### Sidebar
+
 - Create grids for:
   - Branding section
   - Navigation section
 
 ### Header
+
 - Create grids for:
   - Search bar
   - User info
   - Buttons
 
 ### Main Content
+
 - Create grids for:
   - Projects
   - Announcements
   - Trending items
 
-💡 *Use dummy text and placeholder images while building to visualize layout and spacing.*
+💡 _Use dummy text and placeholder images while building to visualize layout and spacing._
 
 ---
 
 ## 🎨 Step 4: Gather Assets & Style
 
 1. **Icons**
+
    - Download icons from [Material Design Icons](https://materialdesignicons.com/)
 
 2. **Fonts**
+
    - Use [Google Fonts](https://fonts.google.com/) — the design uses **Roboto** (or choose your own)
 
 3. **Styling**
@@ -134,6 +144,7 @@ git push -u origin main
 ## 🌐 Final Step
 
 Once completed:
+
 - Push your final version to GitHub.
 - Enable **GitHub Pages** in repository settings.
 - Share your live project link!
