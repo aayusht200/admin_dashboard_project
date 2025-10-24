@@ -71,12 +71,6 @@ cd admin_dashboard_project
 
 ---
 
-## Screenshots
-
-_(Optional: Add screenshots of your dashboard here to showcase the layout and design.)_
-
----
-
 ## License
 
 This project is open-source and free to use.
